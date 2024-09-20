@@ -22,7 +22,7 @@ Contributors names and contact info:
 
 Amir Gaaloul
 
-[@kraken0-dek](https://github.com/kraken0-del)
+[@kraken0-del](https://github.com/kraken0-del)
 
 
 ## License
