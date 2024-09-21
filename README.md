@@ -21,6 +21,7 @@ I used different concepts of solidity language to write this smart contract like
 Contributors names and contact info:
 
 Amir Gaaloul
+
 202010735
 
 [@kraken0-del](https://github.com/kraken0-del)
